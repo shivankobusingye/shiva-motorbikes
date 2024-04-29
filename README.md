@@ -25,4 +25,4 @@ THIS REPOSITORY HOLDS MY FINAL WEBSITE DEVELOPMENT PROJECT WRITTEN IN HTML, CSS 
                   3. JAVASCRIPT
 
 #-----HOW TO OPEN THE PROJECT-----#
-                : Below is the link to the website hosted using github pages 
+                : Below is the link to the website hosted using github pages https://shivankobusingye.github.io/shiva-motorbikes.github.io/
