@@ -1,0 +1,115 @@
+/* THE HEADER SECTION */
+/* Styling the header section */
+#main-upper-header {
+    margin-bottom: 0px;
+    border: 2px solid #ff7200;
+    display: block;
+    background-color: hsl(174, 72%, 56%);
+  }
+  
+  
+  .header-section {
+      background-color: turquoise;
+      color: #fff;
+      padding: 10px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+  }
+  
+  .logo img {
+      max-width: 100px; /* Adjust as needed */
+  }
+  
+
+  .contact-info {
+      display: flex;
+  }
+  
+  .info-item {
+      margin-right: 20px;
+  }
+  
+  .info-item span {
+      font-size: 14px;
+  }
+  
+  
+  
+  .upper-header {
+      align-items: center;
+  }
+  
+  .upper-header img {
+      height: 70px;
+      width: 100px;
+  }
+  
+  
+  
+  
+  /* THE MENU BAR SECTION */
+  /* Styling the menu bar */  
+  .menu-bar {
+    background-color: #333;
+    z-index: 1 !important;
+  }
+  
+  .menu-bar ul {
+      display: flex;
+      justify-content: space-between;
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+      align-items: center;
+      z-index: 1 !important;
+  }
+  
+  .menu-bar ul li {
+      display: inline-block;
+      z-index: 1 !important;
+  }
+  
+  .menu-bar ul li a {
+      display: block;
+      color: #fff;
+      padding: 15px 20px;
+      text-decoration: none;
+      z-index: 1 !important;
+  }
+  
+  .menu-bar ul li:hover {
+      background-color: #555;
+  }
+  
+  /* Styling the dropdown */
+  .dropdown {
+      position: relative;
+  }
+  
+  .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #333;
+      min-width: 150px;
+      /* z-index: 1; */
+      /* z-index: 1 !important; */
+  }
+  
+  .dropdown-content a {
+      color: #fff;
+      padding: 12px 16px;
+      display: block;
+      text-decoration: none;
+  }
+  
+  .dropdown:hover .dropdown-content {
+      display: block;
+      z-index: 99 !important;
+      position: absolute !important;
+  }
+  
+  
+  
+  
+  
